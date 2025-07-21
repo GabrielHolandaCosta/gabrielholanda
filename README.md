@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake de Contribuições" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/GabrielHolandaCosta/GabrielHolandaCosta/main/github-contribution-grid-snake.svg" alt="Snake de Contribuições" style="max-width: 100%;">
 </p>
 
 <h1 align="center">👋 Olá! Eu sou Gabriel Holanda</h1>
