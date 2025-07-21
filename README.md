@@ -1,4 +1,4 @@
-# 💫Sobre mim :
+# 💫 Sobre mim :
 Sou desenvolvedor front-end com foco na criação de **sites personalizados**, utilizando **HTML, CSS e JavaScript**.  
 Atuo transformando ideias em soluções digitais sob medida, com atenção especial ao **design, usabilidade e performance**.
 
@@ -10,12 +10,36 @@ Atuo transformando ideias em soluções digitais sob medida, com atenção espec
 
 > “Cada projeto é único — assim como cada história que ele representa.”
 
-## 🌐Social :
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/1n1xghtt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ogabrielholanda) 
+---
 
-# 💻Tech Stack :
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+## 🌐 Social :
 
-# 📊Portfólio :
-[![Meu Site](https://img.shields.io/badge/Site%20Pessoal-1a1a1a?style=for-the-badge&logo=about.me&logoColor=white)](https://gabrielholandacosta.github.io/portfolioGabriel)
+<a href="https://discord.gg/1n1xghtt" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
+</a>
+<a href="https://instagram.com/ogabrielholanda" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+</a>
 
+---
+
+# 💻 Tech Stack :
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+
+---
+
+# 📊 Portfólio :
+
+<a href="https://gabrielholandacosta.github.io/portfolioGabriel" target="_blank">
+  <img src="https://img.shields.io/badge/Site%20Pessoal-1a1a1a?style=for-the-badge&logo=about.me&logoColor=white" />
+</a>
